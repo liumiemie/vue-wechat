@@ -17,6 +17,8 @@ git clone git@github.com:liumiemie/vue-wechat.git
 npm install
 
 # 运行程序
+执行node指令运行backEnd.js
+
 
 node backEnd
 
